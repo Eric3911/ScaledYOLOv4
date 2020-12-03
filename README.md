@@ -1,3 +1,7 @@
+# INTRODUCTION
+Thank you for your contribution. Here is my Chinese tutorial
+
+
 # YOLOv4-CSP
 
 This is the implementation of "[Scaled-YOLOv4: Scaling Cross Stage Partial Network](https://arxiv.org/abs/2011.08036)" using PyTorch framwork.
