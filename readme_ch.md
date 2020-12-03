@@ -3,7 +3,8 @@
 
 ## 第一步：
     在github上下载源代码
- 
+    权重下载的百度云地址
+    https://pan.baidu.com/s/1teB8xXtUpFisCVkPu1fCJg 提取码: drpa
 ## 第二步：
     检查pytorch是否>1.6
 
