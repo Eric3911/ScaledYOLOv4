@@ -4,7 +4,7 @@ Thank you for your contribution. Here is my Chinese tutorial
 https://github.com/Eric3911/ScaledYOLOv4/blob/master/readme_ch.md
 
 # SHOW
-![https://github.com/Eric3911/ScaledYOLOv4/blob/master/doc/result.jpg]
+![](https://github.com/Eric3911/ScaledYOLOv4/blob/master/doc/result.jpg)
 
 # YOLOv4-CSP
 
