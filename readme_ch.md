@@ -18,8 +18,8 @@
     首先采用完善的VOC格式的数据集
     mkdir images文件夹
     cp -r JPEGImages images
-    修改list.py里面的路径生成ImageSets： train、test、val 等文件夹路径文件
-    修改labels.py里面路径生成data：2020_train、2020_test、2020_val的txt文件
+    修改voc_list.py里面的路径生成ImageSets： train、test、val 等文件夹路径文件
+    修改voc_labels.py里面路径生成data：2020_train、2020_test、2020_val的txt文件
     修改coco.names 类别为自己的类别
     修改coco.yaml的datasets自己文件的路径、nc为自己类别、cls names为自己类别名称
     
